@@ -63,7 +63,7 @@ This project is a PDF reader with text-to-speech functionality built using Pytho
 ## Screenshots
 
 1. **Main Screen**:
-   ![Main Screen](\Images\MainScreenshot.PNG)
+   ![Main Screen](Images\MainScreenshot.PNG)
 
 2. **Reading Text**:
-   ![Reading Text](\Images\Capture.PNG)
+   ![Reading Text](Images\Capture.PNG)
