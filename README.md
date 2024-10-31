@@ -63,7 +63,7 @@ This project is a PDF reader with text-to-speech functionality built using Pytho
 ## Screenshots
 
 1. **Main Screen**:
-   ![Main Screen](C:\Users\2krot\OneDrive\Documents\Projects\PDF-to-Audio-Convertor\PDF-to-Audio-Convertor\Images\MainScreenshot.PNG)
+   ![Main Screen](\Images\MainScreenshot.PNG)
 
 2. **Reading Text**:
-   ![Reading Text](C:\Users\2krot\OneDrive\Documents\Projects\PDF-to-Audio-Convertor\PDF-to-Audio-Convertor\Images\Capture.PNG)
+   ![Reading Text](\Images\Capture.PNG)
